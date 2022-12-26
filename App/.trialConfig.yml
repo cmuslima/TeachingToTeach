@@ -1,0 +1,78 @@
+trial:
+  actionBufferLifespan: 0
+  actionSpace:
+  - up
+  - down
+  - left
+  - right
+  - null
+  - null
+  - null
+  allowFrameRateChange: false
+  blockedStates:
+  - x: 1
+    y: 2
+  - x: 2
+    y: 2
+  - x: 3
+    y: 2
+  - x: 4
+    y: 5
+  - x: 0
+    y: 7
+  - x: 1
+    y: 7
+  - x: 2
+    y: 7
+  bucket: projects.irll
+  columns: 9
+  dataFile: episode
+  frameRateStepSize: 1
+  game: Lava_World
+  maxEpisodes: 20
+  maxFrameRate: 1
+  minFrameRate: 1
+  projectId: humanfeedback-c-la
+  rows: 6
+  s3upload: true
+  startingFrameRate: 1
+  trajectory:
+  - x: 0
+    y: 0
+  - x: 0
+    y: 1
+  - x: 0
+    y: 2
+  - x: 0
+    y: 3
+  - x: 1
+    y: 0
+  - x: 1
+    y: 1
+  - x: 1
+    y: 3
+  - x: 2
+    y: 3
+  - x: 3
+    y: 3
+  - x: 3
+    y: 4
+  - x: 3
+    y: 5
+  - x: 3
+    y: 6
+  - x: 4
+    y: 6
+  - x: 5
+    y: 6
+  - x: 5
+    y: 7
+  - x: 5
+    y: 8
+  ui:
+  - start
+  - stop
+  - pause
+  - reset
+  - good
+  - bad
