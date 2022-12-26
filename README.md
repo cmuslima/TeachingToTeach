@@ -1,3 +1,6 @@
+Old project using HIPPOGym that currently works on current AWS certificates 
+
+
 # HIPPO Gym 
 ##### Human Input Parsing Platform for Openai Gym
 
